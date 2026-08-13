@@ -241,6 +241,34 @@ a{
     margin-top: 10px;
 }
 
+
+/* PLANE LINE */
+.fourth-row{
+    height: 320px;
+    background-color: rgb(221, 206, 234);
+}
+.fourth-row-content{
+    height: 300px;
+    padding: 5px 5px 0px 5px;
+    background-color: white;
+    margin: 0px 10px 0px 10px;
+}
+.fourth-row-images{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    height: 80%;
+}
+.plane-img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5px 5px 0px 5px;
+    margin: 0px 5px 0px 0px;
+    width: 12%;
+    height: 80%;
+}
+
+
 /* FOOTER */
 /* PANEL1 */
 .foot-panel1 a{
@@ -350,4 +378,5 @@ a{
 }
 .foot-panel6{
     padding: 0;
+    padding-bottom: 20px;
 }
